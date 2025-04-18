@@ -38,8 +38,8 @@ It’s where I write about Katalon, automation frameworks, testing strategies, a
 Wanna run it locally?
 
 ```bash
-git clone https://github.com/lukmanahromi/ahromi.blog.git
-cd ahromi.blog
+git clone https://github.com/arvyandwi/dwi.hendrayanto.git
+cd dwi.hendrayanto
 npm install
 npm run dev
 ```
