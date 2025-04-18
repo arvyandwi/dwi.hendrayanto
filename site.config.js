@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `Resume`,
-      href: "https://github.com/morethanmin/morethan-log",
+      href: "https://drive.google.com/file/d/13Lx-N6f-LeWNHAwBGIbmgURmzVifPbm7/view?usp=sharing",
     },
   ],
   // blog setting (required)
