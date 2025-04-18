@@ -1,4 +1,4 @@
-# 🕶️ ahromi.blog
+# 🕶️ Overview
 
 Welcome to the official repo of **[dwi.hendrayanto.blog]()** — a blog built by a QA Engineer, for QA Engineers (and anyone else who’s into clean setups and chaotic good automation).
 
