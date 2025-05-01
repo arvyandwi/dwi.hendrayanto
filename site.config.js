@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `Resume`,
-      href: "https://drive.google.com/file/d/13Lx-N6f-LeWNHAwBGIbmgURmzVifPbm7/view?usp=sharing",
+      href: "https://drive.google.com/file/d/1mAfm_NCsC4UHY67Cq5-cE5gVTU7OluR0/view?usp=sharing",
     },
   ],
   // blog setting (required)
