@@ -55,5 +55,5 @@ Big thanks for the clean foundation that made this project 10x easier to kicksta
 
 ## 📬 Contact
 
-Created by yours truly xoxo ❤️ by **[@arvyandwi](https://www.linkedin.com/in/arvyan-dwi/)**
+Created by yours truly xoxo ❤️ **[@arvyandwi](https://www.linkedin.com/in/arvyan-dwi/)**
 
